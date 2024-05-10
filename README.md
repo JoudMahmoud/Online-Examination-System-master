@@ -16,7 +16,7 @@ The Online Examination System is a specialized platform designed exclusively for
 - SQL Server (version 2019 or higher)
 
 ### Installation
-1. Clone the repository: git clone https://github.com/malekwanas/Online-Examination-System.git
+1. Clone the repository: git clone https://https://github.com/JoudMahmoud/Online-Examination-System-master.git
 2. Navigate to the project directory: cd Online-Examination-System
 3. Open the solution file (.sln) in Visual Studio.
 4. In Visual Studio, right-click on the solution in Solution Explorer and select "Restore NuGet Packages".
@@ -39,6 +39,6 @@ After starting the application, you can access the Online Examination System by 
 4. Insert both exam ID and question ID to view an exam with the student's responses.
 
 ## Contact
-For any questions or support, please contact the project maintainer at [malekwanas96@gmail.com](mailto:malekwanas96@gmail.com).
+For any questions or support, please contact the project maintainer at (joud.mahmoud1323@gmail.com).
 
 
